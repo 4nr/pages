@@ -1,0 +1,4 @@
+print('Finding Primes')
+m = int(input("maximum number: "))
+print m
+print [x for x in range(2,200) if not [f for f in range(2,x) if not x%f]]

@@ -1,0 +1,9 @@
+<!doctype html>
+<html>
+<head>
+<title>HTML Practice
+</title>
+</head>
+<body>
+</body>
+</html>

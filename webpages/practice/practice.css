@@ -1,0 +1,136 @@
+/* comments in css opened with slash star and closed with star slash */
+
+img {
+
+ color:
+#bad
+#c55
+#dad
+#d4d
+#6a6
+#1ce
+#101
+#0ff
+#bada55
+#c0ffee
+#0decaf
+#d1e5e1
+#10aded
+#c0d3c5
+#de1e7e
+#decade
+#facade
+#beaded
+#acce55
+#dec0de
+#0ff1ce
+#ac1d1c
+}
+a:link {
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:visited {
+    color: pink;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+}
+a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+}
+body {
+    background: rgb(53, 69, 81);
+    margin: 10%;
+    padding: 20px;
+    text-align: center;
+}
+#para1 {
+    text-align: left;
+    font-weight: normal;
+    color: #bada55;
+}
+h3 {
+    color: #c0ffee;
+    font-style: italic;
+    padding: 45px;
+    border: solid green 1px;
+}
+p {
+    color: #0decaf;
+    background-color: #101;
+    line-height: 1.5em;
+    text-align: center;
+    width: 80%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    border-color: #0ff1ce;
+    border-width: 5px;
+    border-radius: 12px;
+    padding: 35px;
+}
+.dotted {
+    border-style: dotted;
+    border-color: #acce55;
+}
+.dash {
+    border-style: dashed;
+    border-color: #dec0de;
+}
+.odd {
+    background-color: #222;
+    border-width: 10px;
+    border-top-left-radius: 50px;
+    border-top-style: solid;
+    border-top-color: #000;
+    border-top-right-radius: 0px;
+    border-right-style: dashed;
+    border-right-color: #fff;
+    border-bottom-left-radius: 25px;
+    border-left-style: double;
+    border-left-color: #888;
+    border-bottom-right-radius: 10px;
+}
+.clean {
+    background-color: #ac1d1c;
+    text-align: center;
+    padding: 30px;
+    border-radius: 30px;
+    font-family: helvetica;
+    color: #0ff1ce;
+    width: 70%;
+}
+.indent {
+    margin-left: 10%;
+}
+.date {
+    text-align: center;
+    width: 60%;
+    font-family: Arial;
+    font-style: italic;
+    color: #c0ffee;
+    background-color: #2faced;
+    border-style: solid;
+    border-color: #facade;
+    border-width: 10px;
+    border-radius: 10px;
+}
+.btn {
+    color: #10aded;
+    border-width: 6px;
+    border-color: #ac1d1c;
+}
+.lists {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 135%;
+    background-color: #0ff1ce;
+    border-color: #deaf00;
+    border-width: 9px;
+}
